@@ -5,7 +5,7 @@ https://hub.docker.com/r/shinchven/gitlab-runner-node-builder-cn/
 # 配方
 - Alpine Linux 阿里云源；
 - 中国时区；
-- node，并设置taobao镜像；
+- node，并设置npm的taobao镜像；
 - git；
 - yarn；
 
